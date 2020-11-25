@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(1, 10, 59);
+    background-color: rgb(201, 178, 207);
+}
+div.wyruwnanie{
+background-color: rgb(201, 178, 207);
+}
+
+table {
+    border: 0 px solid deeppink;
+}
+
+td {
+    border: 1px solid deeppink;
+}
+
+h1 {
+    color: darkorchid;
+}
+
+h1.glowna {
+    color: deeppink;
+}
+/*nieodwiedzony link*/
+  /*pogrubienie czcionki*/
+
+/*unvisited link*/
+a:link{
+  color:black;
+
+/*aktywny link/* unvisited link
+a:link{
+color:yellow;
+}
+/*odwiedzony link*/
+a:visited
+color:orange;
+}
+/*mysz nad linkiem*/
+a;hover{
+color:yellow;
+}
+/*selected link*/
+a: active{
+color:green;
+} 
+color:;
+}
